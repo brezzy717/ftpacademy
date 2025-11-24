@@ -47,8 +47,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Email</h3>
-                    <a href="mailto:admissions@ftp.academy" className="text-muted-foreground hover:text-primary">
-                      admissions@ftp.academy
+                    <a href="mailto:info@ftp.academy" className="text-muted-foreground hover:text-primary">
+                      info@ftp.academy
                     </a>
                   </div>
                 </div>
@@ -59,8 +59,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary">
-                      (123) 456-7890
+                    <a href="tel:+14807886029" className="text-muted-foreground hover:text-primary">
+                      (480) 788-6029
                     </a>
                   </div>
                 </div>
@@ -72,7 +72,8 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold">Location</h3>
                     <p className="text-muted-foreground">
-                      Arizona, USA<br />
+                      2425 E Camelback Road, Suite 600<br />
+                      Phoenix, AZ 85016<br />
                       <span className="text-sm">(Serving all 50 states via distance learning)</span>
                     </p>
                   </div>
