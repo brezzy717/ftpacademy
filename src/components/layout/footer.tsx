@@ -44,13 +44,13 @@ export function Footer() {
               Career-focused certification programs for the real world. Serving students across all 50 states through distance learning.
             </p>
             <div className="space-y-3">
-              <div className="flex items-center gap-3 text-sm">
-                <MapPin className="h-4 w-4 text-primary-foreground/70" />
-                <span>Arizona, USA</span>
+              <div className="flex items-start gap-3 text-sm">
+                <MapPin className="h-4 w-4 text-primary-foreground/70 mt-0.5" />
+                <span>2425 E Camelback Road, Suite 600<br />Phoenix, AZ 85016</span>
               </div>
               <div className="flex items-center gap-3 text-sm">
                 <Phone className="h-4 w-4 text-primary-foreground/70" />
-                <a href="tel:+1234567890" className="hover:underline">(123) 456-7890</a>
+                <a href="tel:+14807886029" className="hover:underline">(480) 788-6029</a>
               </div>
               <div className="flex items-center gap-3 text-sm">
                 <Mail className="h-4 w-4 text-primary-foreground/70" />
